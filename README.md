@@ -29,7 +29,7 @@ Whether it's one-on-one conversations or interest-based group chats with video c
 <img src = "./screenshots (3).png">
 <img src = "./screenshots (4).png">
 <h2>Contributors of this project:</h2>
-<li>Yashwardhan Singh Bhadouriya (Github Profile : yashmnit)</li>
+<li>Yashwardhan Singh Bhadoriya (Github Profile : yashmnit)</li>
 <li>Dharak Upadhyay (Github Profile : dharak1975)</li>
 
 
